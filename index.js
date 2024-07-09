@@ -1,1 +1,1 @@
-console.log("This is a message or a phrase")
+console.log("This is a message or a phrase NOT A CONFLICT")
