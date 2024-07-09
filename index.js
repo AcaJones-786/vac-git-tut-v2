@@ -1,1 +1,1 @@
-console.log("This is a message or a phrase")
+console.error("This is an error message");
